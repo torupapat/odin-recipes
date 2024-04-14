@@ -6,6 +6,16 @@ h1 {
     font-weight: bolder;
 }
 
+h2 {
+    text-align: center;
+}
+
+.p-center {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
 #hp-text {
     text-align: center;
     background-color: #0e0e52;
